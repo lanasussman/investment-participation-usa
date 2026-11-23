@@ -28,6 +28,12 @@ The analysis excludes “don’t know” and “prefer not to say” responses. 
 
 The map places jurisdictions into three groups—low, moderate, and high—based on their relative rates in this dataset. These groups are not fixed ownership thresholds.
 
+## Results
+
+![Map of non-retirement investment ownership by state](visualizations/ownership_map.png)
+
+An interactive version with state tooltips is saved as `visualizations/ownership_map.html`. It loads plotly.js from a CDN, so it needs an internet connection.
+
 ## Run the project
 
 1. Clone this repository and open it in VS Code.
@@ -53,5 +59,5 @@ The map places jurisdictions into three groups—low, moderate, and high—based
 
 - Python
 - pandas
-- Plotly
+- Plotly (with Kaleido for image export)
 - Jupyter Notebook
