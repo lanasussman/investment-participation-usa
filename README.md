@@ -32,7 +32,7 @@ The map places jurisdictions into three groups—low, moderate, and high—based
 
 ![Map of non-retirement investment ownership by state](visualizations/ownership_map.png)
 
-An interactive version with state tooltips is saved as `visualizations/ownership_map.html`. It loads plotly.js from a CDN, so it needs an internet connection.
+An interactive version with state tooltips is saved as `docs/index.html` (published with GitHub Pages). It loads plotly.js from a CDN, so it needs an internet connection.
 
 ## Run the project
 
